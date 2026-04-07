@@ -1,0 +1,7 @@
+# Only allow markdown and skill-related files
+*
+!*.md
+!SKILL*
+!README*
+!LICENSE*
+!.gitignore
